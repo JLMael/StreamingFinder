@@ -363,6 +363,78 @@ const sites = [
       },
     ],
   },
+  {
+    name: "Sport Tuna Pro",
+    image: getScreenshotUrl("https://live.sporttuna.pro/"),
+    description: "Site de streaming de sport.",
+    type: "Sport",
+    links: [
+      {
+        label: "Visiter Sport Tuna PRO",
+        url: "https://live.sporttuna.pro/",
+      },
+    ],
+  },
+  // {
+  //   name: "",
+  //   image: getScreenshotUrl(""),
+  //   description: "",
+  //   type: "Série, Film, Anime",
+  //   links: [
+  //     {
+  //       label: "Visiter",
+  //       url: "",
+  //     },
+  //   ],
+  // },
+  // {
+  //   name: "",
+  //   image: getScreenshotUrl(""),
+  //   description: "",
+  //   type: "Série, Film, Anime",
+  //   links: [
+  //     {
+  //       label: "Visiter",
+  //       url: "",
+  //     },
+  //   ],
+  // },
+  // {
+  //   name: "",
+  //   image: getScreenshotUrl(""),
+  //   description: "",
+  //   type: "Série, Film, Anime",
+  //   links: [
+  //     {
+  //       label: "Visiter",
+  //       url: "",
+  //     },
+  //   ],
+  // },
+  // {
+  //   name: "",
+  //   image: getScreenshotUrl(""),
+  //   description: "",
+  //   type: "Série, Film, Anime",
+  //   links: [
+  //     {
+  //       label: "Visiter",
+  //       url: "",
+  //     },
+  //   ],
+  // },
+  // {
+  //   name: "",
+  //   image: getScreenshotUrl(""),
+  //   description: "",
+  //   type: "Série, Film, Anime",
+  //   links: [
+  //     {
+  //       label: "Visiter",
+  //       url: "",
+  //     },
+  //   ],
+  // },
   // {
   //   name: "",
   //   image: getScreenshotUrl(""),
